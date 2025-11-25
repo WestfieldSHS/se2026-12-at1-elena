@@ -2,7 +2,7 @@
   "files.autoSave": "onFocusChange",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
-  "editor.fontSize": 18,
+  "editor.fontSize": 13,
   "extensions.ignoreRecommendations": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.restoreWindows": "preserve",
@@ -13,7 +13,7 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
   },
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Default Dark Modern",
   "workbench.iconTheme": "vscode-icons",
   "github.copilot.enable": {
     "python": false,
